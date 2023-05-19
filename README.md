@@ -18,6 +18,6 @@ I'm Andy, an AI enthusiast with a passion for machine learning, web crawling, Ch
 
 🚀 Let's collaborate, learn, and push the boundaries of what AI can do together! If you have any questions or ideas, don't hesitate to reach out.
 
-📫 If you have some questions, contact me on [freshmentolegend@gmail.com](mailto:freshmentolegend@gmail.com) or [freshmentolegend@hotmail.com](mailto:freshmentolegend@gmail.com)  
+📫 If you have some questions, contact me on [freshmentolegend@gmail.com](mailto:freshmentolegend@gmail.com) or [freshmentolegend@hotmail.com](mailto:freshmentolegend@hotmail.com)  
 Happy coding! 😊  
 
